@@ -1,28 +1,22 @@
-Strata by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Taiwo Ogunnimo's Portfolio!
+https://taiwoogunnimo.github.io/Portfolio/ | @taiwoogunnimo
+Free for personal and commercial use.
 
 
-A simple, minimalist template that actually began life as an unused redesign of my
-personal site. Includes a (configurable) parallax background effect, Poptrox-powered
-lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
+Say hello to my Portfolio, a blog/magazine-ish portfolio.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+Images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
 
-(* = Not included)
+(* = not included)
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+TAIWO TIMILEHIN OGUNNIMO
+taiwoogunnimo.github.io | @taiwoogunnimo
 
 
 Credits:
 
-	Demo Images:
+	Images:
 		Unsplash (unsplash.com)
 
 	Icons:
