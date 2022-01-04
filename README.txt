@@ -16,6 +16,9 @@ taiwoogunnimo.github.io | @taiwoogunnimo
 
 Credits:
 
+	Programmer/Website Designer:
+		Moses Olayinka Oyedele (https://github.com/deleolayinka) | @deleolayinka
+		
 	Images:
 		Unsplash (unsplash.com)
 
